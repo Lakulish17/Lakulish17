@@ -1,6 +1,6 @@
 <!-- Gif -->
 <p align="center">
-<img  style="border-radius: 15px" src="https://raw.githubusercontent.com/rajaprerak/rajaprerak/master/developer.gif" width="50%"/>
+<img  style="border-radius: 15px" src="https://raw.githubusercontent.com/rajaprerak/rajaprerak/master/developer.gif" width="70%"/>
 </p>
 
 
