@@ -10,7 +10,7 @@
 💡 &nbsp;I like to explore new technologies and design websites.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Parul Institute Of Technology.
 - ⚽ Likes to play Football
-- 👨‍💻 Loves to Code 
+- 👨‍💻 Likes to Code 
 - 🎮 likes gaming
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Entering in the World of Technology
